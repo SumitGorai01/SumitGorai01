@@ -1,4 +1,14 @@
-<!--### Hi Developers , I'm Sumit Gorai👋-->
+### Hi Developers , I'm Sumit Gorai👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=A+Passionate+Full+Stack+web+developer+;Software+Engineer;Java+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+
+![Visitor Count](https://profile-counter.glitch.me/{SumitGorai01}/count.svg)
+
+## <img src="https://i.giphy.com/media/fx2dTYIHOVHSTf3wFi/giphy.webp" width="25"> &nbsp;Github Profile Trophy
+<div>
+    <img src="https://github-profile-trophy.vercel.app/?username=SumitGOrai01&theme=algolia&column=7&margin-w=10"/>
+</div>
+
 
 <!--
 **SumitGorai01/SumitGorai01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm Sumit Gorai</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgorai01&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgorai01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitgorai01" alt="sumitgorai01" /></a> </p>
 
 - 🔭 I’m currently working on **web technology and development**
 
