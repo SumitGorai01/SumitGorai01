@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **web technology and development**
   
-- 🔭 I’m currently working on [Open Library Project(Using Java and Spring Boot)](https://github.com/SumitGorai01/Open-Library)
+- 🔭 I’m currently working on [Open Library Project(Using Java, Spring Boot and Angular)](https://github.com/SumitGorai01/Open_Library_using_Java_and_Angular.git)
 
 - 🌱 I’m currently learning **Spring Boot framework**
 
