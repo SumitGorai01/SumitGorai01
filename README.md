@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=A+Passionate+Full+Stack+web+developer+;Software+Engineer;Java+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/{SumitGorai01}/count.svg)
 
 ## <img src="https://i.giphy.com/media/fx2dTYIHOVHSTf3wFi/giphy.webp" width="25"> &nbsp;Github Profile Trophy
