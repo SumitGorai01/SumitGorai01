@@ -1,5 +1,8 @@
 
 <p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=header" />
+
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=30&center=true&lines=Hello,+EveryOne+👋;Welcome+to+My+Profile+💻;Feel+Free+to+Reach+Me+Out😎;"></a>
 </p>
 <!-- Coloured Line -->
@@ -17,7 +20,7 @@
 </p>
 <!-- Coloured Line -->
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </h3>
 
 
@@ -54,12 +57,12 @@
 
 <!-- Coloured Line -->
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </h3>
 
 ## <img src="https://i.giphy.com/media/fx2dTYIHOVHSTf3wFi/giphy.webp" width="25"> &nbsp;Github Profile Trophy
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=SumitGOrai01&theme=algolia&column=7&margin-w=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SumitGOrai01&theme=algolia&column=8&margin-w=10"/>
 </div>
 
 </div>
@@ -173,10 +176,11 @@
 ![SumitGorai01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SumitGorai01&theme=vue-dark&hide_border=true)
 ![SumitGorai01's Stats](https://github-readme-stats.vercel.app/api?username=SumitGorai01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![SumitGorai01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitGorai01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br>
 
 <!-- Coloured Line -->
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </h3>
 
 
@@ -185,11 +189,13 @@
 </p>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </h3>
 
 <div align="center">
 
 ### Made By ❤️ Sumit Gorai © Copyright. All Rights Reserved @2024.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" />
 </div>
+
