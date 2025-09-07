@@ -29,23 +29,25 @@
 ## <picture><img src = "https://github.com/SumitGorai01/SumitGorai01/blob/main/about_me.gif" width = 50px></picture> *About Me*
 
 <img align="right" alt="Coder GIF" height=250 width=400  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-- 🔭 I’m currently working on **web technology and development**
+- 🔭 I’m currently working on **MERN Stack and Java Development**
   
-- 🔭 I’m currently working on [Open Library Project(Using Java, Spring Boot and Angular)](https://github.com/SumitGorai01/Open_Library_using_Java_and_Angular.git)
+- 🔭 I’m currently working on [Open Library Project(Using Java, Spring Boot and Angular)](https://github.com/SumitGorai01/Open_Library_using_Java_and_Angular.git) and MERN Stack project.
 
-- 🌱 I’m currently learning **Spring Boot framework and JavaScript**
+- 🌱 I’m currently learning **Spring Boot framework and React**
 
-- 👯 I’m looking to collaborate on **SpringBoots Web Projects**
+- 👯 I’m looking to collaborate on **SpringBoot Web Projects**
 
 - 🤝 I’m looking for help with **Full-Stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumitGorai01](https://github.com/SumitGorai01)
 
-- 💬 Ask me about **web devlopmenent , Java and programming languages**
+- 💬 Ask me about **web devlopmenent , Java programming languages and MERN Stack etc**
 
 - 📫 How to reach me **goraisumit01@gmail.com**
   
 - 🌐 My Portfolio - https://sumitgorai-portfolio.netlify.app/
+
+- 💻 My Resume - https://drive.google.com/file/d/1wDFn9oDGTWih5Y0UAEJ8tsKtvs3ktnEK/view?usp=sharing
 
 - ⚡ Fun fact **"Why do programmers like dark mode? Because light attracts bugs."**
 <!-- Coloured Line -->
@@ -56,6 +58,7 @@
 ## 💳 Github Profile View
 
 ![Visitor Count](https://profile-counter.glitch.me/{SumitGorai01}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitGorai01&label=Profile%20views&color=0e75b6&style=flat" alt="SumitGorai01" /> </p>
 
 <!-- Coloured Line -->
 <h3 align="center">
@@ -64,7 +67,7 @@
 
 ## <img src="https://i.giphy.com/media/fx2dTYIHOVHSTf3wFi/giphy.webp" width="25"> &nbsp;Github Profile Trophy
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=SumitGOrai01&theme=algolia&column=8&margin-w=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SumitGorai01&theme=algolia&column=8&margin-w=10"/>
 </div>
 
 </div>
