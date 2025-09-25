@@ -88,13 +88,6 @@
 
 ## GSSOC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<!-- <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /> -->
-
   <img src="./GSSoC24_Badges/GSSoC24_Stats (1).png" width="100%" height="250px" /> 
 </div>
 
@@ -103,14 +96,26 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## Social Summer of Code(SSoC) Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="./GSSoC24_Badges/GSSoC24_Stats (1).png" width="100%" height="250px" /> 
+## Social Summer of Code (SSoC) & GSooC Badges  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Social Summer of Code (SSoC) Badges</h3>
+      <img src="./PA.png" alt="SSoC Badge" width="100%" height="250px" />
+    </td>
+    <td align="center" width="50%">
+      <h3>GirlScript Summer of Code (GSSoC) Badges</h3>
+      <img src="./Project Admin's badge.jpg" alt="SWoC Badge" width="100%" height="250px" />
+    </td>
+  </tr>
+</table>
+
 </div>
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+
+
 
 ## CONNECT WITH ME :
 <!-- <h3 align="left">## Connect with me:</h3> -->
