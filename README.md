@@ -76,6 +76,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+# <picture><img src = "https://github.com/SumitGorai01/SumitGorai01/blob/main/about_me.gif" width = 50px></picture> Open Source Contribution 
+
 ## Hecktoberfest Badges
 
 [![An image of @sumitgorai01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumitgorai01)](https://holopin.io/@sumitgorai01)
@@ -96,6 +98,15 @@
   <img src="./GSSoC24_Badges/GSSoC24_Stats (1).png" width="100%" height="250px" /> 
 </div>
 
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## Social Summer of Code(SSoC) Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="./GSSoC24_Badges/GSSoC24_Stats (1).png" width="100%" height="250px" /> 
+</div>
 <!-- Coloured Line -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
